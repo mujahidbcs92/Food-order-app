@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mujahidbcs92.github.io/Food-order-app/static/css/main.7345c858.css",
+    "main.js": "/mujahidbcs92.github.io/Food-order-app/static/js/main.be119321.js",
+    "static/media/meals.jpg": "/mujahidbcs92.github.io/Food-order-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/mujahidbcs92.github.io/Food-order-app/index.html",
+    "main.7345c858.css.map": "/mujahidbcs92.github.io/Food-order-app/static/css/main.7345c858.css.map",
+    "main.be119321.js.map": "/mujahidbcs92.github.io/Food-order-app/static/js/main.be119321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7345c858.css",
+    "static/js/main.be119321.js"
+  ]
+}
